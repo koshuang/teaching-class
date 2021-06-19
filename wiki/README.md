@@ -1,7 +1,7 @@
 # Wiki
 
 - 分類 (目錄結構)
-  - language
+  - Languages
     - Javascript/TypeScript
       - Framework
         - React.js
@@ -11,6 +11,13 @@
       - Framework
         - Laravel
       - Testing
-  - service
-    - note
+  - Services
+    - Note
       - HackMD
+  - Work
+    - General
+    - Software
+      - Frontend
+      - Backend
+      - Fullstack
+      - DevOps
