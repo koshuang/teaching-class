@@ -2,6 +2,9 @@
 
 ## 分類 (目錄結構)
 
+- DevOps
+  - CI
+  - CD
 - IDE
   - VS Code
 - Languages
